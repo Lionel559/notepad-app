@@ -1,0 +1,11 @@
+body{
+background:#0b1120;
+color:white;
+}
+
+.list-group-item{
+background:#1e293b;
+color:white;
+border:none;
+margin-bottom:10px;
+}
